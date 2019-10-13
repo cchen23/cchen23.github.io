@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
-* Incoming Ph.D. candidate in EECS, UC Berkeley (Fall 2019 start)
-* B.S.E. in Computer Science, Princeton University, 2018
+* Ph.D. candidate in EECS, **UC Berkeley** (*Aug 2019 -*)
+* Fulbright Student Research Grant, **MPI Tuebingen and LMU Munich** (*Sep 2018 - Jul 2019*)
+* B.S.E. in Computer Science, **Princeton University** (*Sep 2014 - Jun 2018*)
   * Minors: Applied Math, Neuroscience, Statistics & Machine Learning
-  * _summa cum laude_
+  * Graduated _summa cum laude_
 
 Work experience
 ======
-* Jun - Aug 2017: Airbnb *San Francisco, CA*
+* **Airbnb** *San Francisco, CA* (*Jun - Aug 2017*)
   * Software Engineer Intern
   * KPCB Fellow
-* Jun - Sep 2016: Google *Seattle, WA*
+* **Google** *Seattle, WA* (*Jun - Sep 2016*)
   * Engineering Practicum Intern
-* Jun - Aug 2015: Curtis Institute of Music *Philadelphia, PA*
-* Oct 2014 - May 2017: Princeton Internships in Civic Service *Princeton, NJ*
+* **Curtis Institute of Music** *Philadelphia, PA* (*Jun - Aug 2015*)
+* **Princeton Internships in Civic Service** *Princeton, NJ* (*Oct 2014 - May 2017*)
   * Assistant Program Coordinator
 
 <!-- Languages
@@ -56,10 +57,13 @@ Teaching
 
 Awards & Scholarships
 ======
-* Fulbright US Student Grant
-* Accenture Prize in Computer Science
-* KPCB Engineering Fellow
-* Student Teaching Award, Princeton Computer Science
-* Facebook Grace Hopper Scholar
-* Undergraduate Summer Research Award, Princeton CSML
-* Norman B. Tomlinson, Jr., ’48 Scholarship, Princeton CITP
+* Fulbright US Student Grant (*2018-2019*)
+* Princeton Accenture Prize in Computer Science (*2018*)
+* Student Teaching Award, Princeton Computer Science (*2018*)
+* Undergraduate Summer Research Award, Princeton CSML (*2018*)
+* Norman B. Tomlinson, Jr., ’48 Scholarship, Princeton CITP (*2018*)
+* Phi Beta Kappa Honor Society (*2018*)
+* Sigma Xi Research Honor Society (*2018*)
+* Tau Beta Pi Engeering Honor Society, elected treasurer (*2017*)
+* KPCB Engineering Fellow (*2017*)
+* Facebook Grace Hopper Scholarship (*2017*)
