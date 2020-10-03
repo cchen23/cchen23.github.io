@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 <br>
-Hello! My name is Cathy Chen. I'm a first-year PhD student in [EECS at UC Berkeley](https://eecs.berkeley.edu/) working with [Dan Klein](https://people.eecs.berkeley.edu/~klein/) and [Jack Gallant](https://www.gallantlab.org/news/). I am affiliated with [BAIR](https://bair.berkeley.edu). I am broadly interested in the intersection of language, cognitive neuroscience, and machine learning.
+Hello! My name is Cathy Chen. I'm a PhD student in [EECS at UC Berkeley](https://eecs.berkeley.edu/) working with [Dan Klein](https://people.eecs.berkeley.edu/~klein/) and [Jack Gallant](https://www.gallantlab.org/news/). I am affiliated with [BAIR](https://bair.berkeley.edu). I am broadly interested in the intersection of language, cognitive neuroscience, and machine learning.
 
 Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.fulbrightonline.org/) to work on causal inference and neuroscience at [LMU Munich](https://www.uni-muenchen.de/index.html) and [MPI Tuebingen](https://tuebingen.mpg.de/startseite/), advised by [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at/team/person/107192/). I graduated with a BSE in Computer Science from [Princeton](https://www.princeton.edu/) with minors in Neuroscience, Statistics and Machine Learning, and Applied Math. There, I worked with [Ken Norman](https://compmem.princeton.edu), [Elad Hazan](https://www.cs.princeton.edu/~ehazan/), and [Zahra Aminzare](http://homepage.divms.uiowa.edu/~zaminzare/).
 
-In my free time, I run and play tennis, guitar, and chess. Sometimes I also work on learning salsa dancing, German, and Spanish.
+Outside of research, I run, play tennis and guitar, and work on improving my German and Spanish.
 
 ## Past Research
 * Causal Inference in fMRI Data.
