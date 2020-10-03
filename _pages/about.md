@@ -15,11 +15,11 @@ Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.ful
 Outside of research, I run, play tennis and guitar, and work on improving my German and Spanish.
 
 ## Past Research
-* Causal Inference in fMRI Data.
+* Causal Inference in fMRI Data (*In preparation*).
   * Showed prevalence of false positives when applying statistical causal inference methods to noisy data, even with simple model assumptions.
-* Learning to Perform Dynamic Role-Filler Binding with Schematic Knowledge [poster](/images/thesis_ccn_poster.png) [abstract](https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1036) (*[CCN 2018](https://ccneuro.org/2018/)*) [preprint](https://arxiv.org/abs/1902.09006)
+* Learning to Perform Dynamic Role-Filler Binding with Schematic Knowledge (*[CCN 2018](https://ccneuro.org/2018/)*). [preprint](https://arxiv.org/abs/1902.09006) [poster](/images/thesis_ccn_poster.png) [abstract](https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1036)
   * Tested whether/how neural networks learn to perform dynamic role-filler binding, the ability to associate specific "fillers" with abstract "roles" by learning structural relationships underlying specific experiences.
-* A Temporal Decay Model for Mapping between fMRI and Natural Language Annotations. [abstract](https://www2.securecms.com/CCNeuro/docs-0/591d7d2668ed3f3154cce90a.pdf) *([CCN 2017](https://ccneuro.org/2017/index.html))*
+* A Temporal Decay Model for Mapping between fMRI and Natural Language Annotations *([CCN 2017](https://ccneuro.org/2017/index.html))*. [abstract](https://www2.securecms.com/CCNeuro/docs-0/591d7d2668ed3f3154cce90a.pdf) 
   * Studied the influence on exponential decay parameters to integrate information in models that predict between fMRI brain scans of subjects watching a movie and external text annotations of the same movie.
 * Decision Making in Heterogeneous Drift Diffusion Networks [slides](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/slides.pdf) [report](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/written_report.pdf) *([PACM](https://www.pacm.princeton.edu) Undergraduate Certificate Colloquium 2018)*
   * Characterized decision dynamics in groups of hetereogeneous individuals that accumulate information according to the drift-diffusion model.
