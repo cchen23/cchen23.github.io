@@ -15,11 +15,12 @@ Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.ful
 Outside of research, I run, play tennis and guitar, and work on improving my German and Spanish.
 
 ## Past Research
-* Causal Inference in fMRI Data (*in preparation*).
-  * Showed prevalence of false positives when applying statistical causal inference methods to noisy data, even with simple model assumptions.
-* Learning to Perform Dynamic Role-Filler Binding with Schematic Knowledge (*[CCN 2018](https://ccneuro.org/2018/)*). [preprint](https://arxiv.org/abs/1902.09006) [poster](/images/thesis_ccn_poster.png) [abstract](https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1036)
-  * Tested whether/how neural networks learn to perform dynamic role-filler binding, the ability to associate specific "fillers" with abstract "roles" by learning structural relationships underlying specific experiences.
-* A Temporal Decay Model for Mapping between fMRI and Natural Language Annotations *([CCN 2017](https://ccneuro.org/2017/index.html))*. [abstract](https://www2.securecms.com/CCNeuro/docs-0/591d7d2668ed3f3154cce90a.pdf) 
-  * Studied the influence on exponential decay parameters to integrate information in models that predict between fMRI brain scans of subjects watching a movie and external text annotations of the same movie.
-* Decision Making in Heterogeneous Drift Diffusion Networks [slides](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/slides.pdf) [report](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/written_report.pdf) *([PACM](https://www.pacm.princeton.edu) Undergraduate Certificate Colloquium 2018)*
-  * Characterized decision dynamics in groups of hetereogeneous individuals that accumulate information according to the drift-diffusion model.
+Catherine Chen*, Kevin Lin*, Dan Klein (*equal contribution). (2021). NAACL. [paper](https://arxiv.org/abs/2010.12813) [code](https://github.com/cchen23/ctp)
+
+Catherine Chen, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman. (2021). Learning to perform role-filler binding with schematic knowledge. PeerJ, 9, e11046. [paper](https://peerj.com/articles/11046/)
+
+Catherine Chen, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman. (2018). Generalized schema learning by neural networks. The Conference on Cognitive Computational Neuroscience (CCN) [poster](/images/thesis_ccn_poster.png) [abstract](https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1036)
+
+Kiran Vodrahalli, Catherine Chen, Viola Mocz, Chris Baldassano, Uri Hasson, Sanjeev Arora, Kenneth A. Norman. (2017). A temporal decay model for mapping between fMRI and natural language annotations. The Conference on Cognitive Computational Neuroscience (CCN). [abstract](https://www2.securecms.com/CCNeuro/docs-0/591d7d2668ed3f3154cce90a.pdf)
+
+Decision Making in Heterogeneous Drift Diffusion Networks (2018) [PACM](https://www.pacm.princeton.edu) Undergraduate Certificate Colloquium. [presentation](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/slides.pdf) [report](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/written_report.pdf)
