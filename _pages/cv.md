@@ -57,6 +57,7 @@ Teaching
 
 Awards & Scholarships
 ======
+* NSF Graduate Research Fellowship (*2019-*)
 * Fulbright US Student Grant (*2018-2019*)
 * Princeton Accenture Prize in Computer Science (*2018*)
 * Student Teaching Award, Princeton Computer Science (*2018*)
