@@ -15,7 +15,7 @@ Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.ful
 Outside of research, I run, play tennis and guitar, and work on improving my German and Spanish.
 
 ## Past Research
-Catherine Chen*, Kevin Lin*, Dan Klein (*equal contribution). (2021). NAACL. [paper](https://arxiv.org/abs/2010.12813) [code](https://github.com/cchen23/ctp)
+Catherine Chen*, Kevin Lin*, Dan Klein (*equal contribution). (2021). Constructing Taxonomies from Pretrained Language Models. NAACL. [paper](https://arxiv.org/abs/2010.12813) [code](https://github.com/cchen23/ctp)
 
 Catherine Chen, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman. (2021). Learning to perform role-filler binding with schematic knowledge. PeerJ, 9, e11046. [paper](https://peerj.com/articles/11046/)
 
