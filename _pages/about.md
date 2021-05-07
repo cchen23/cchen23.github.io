@@ -12,10 +12,10 @@ Hello! My name is Cathy Chen. I'm a PhD student in [EECS at UC Berkeley](https:/
 
 Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.fulbrightonline.org/) to work on causal inference and neuroscience at [LMU Munich](https://www.uni-muenchen.de/index.html) and [MPI Tuebingen](https://tuebingen.mpg.de/startseite/), advised by [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at/team/person/107192/). I graduated with a BSE in Computer Science from [Princeton](https://www.princeton.edu/) with minors in Neuroscience, Statistics and Machine Learning, and Applied Math. There, I had to privilege of working with [Ken Norman](https://compmem.princeton.edu), [Elad Hazan](https://www.cs.princeton.edu/~ehazan/), and [Zahra Aminzare](http://homepage.divms.uiowa.edu/~zaminzare/).
 
-Outside of research, I run, play tennis and guitar, and work on improving my German and Spanish.
+Outside of research, I like to run, play tennis and guitar, and learn languages.
 
 ## Past Research
-Catherine Chen*, Kevin Lin*, Dan Klein (*equal contribution). (2021). Constructing Taxonomies from Pretrained Language Models. NAACL. [paper](https://arxiv.org/abs/2010.12813) [code](https://github.com/cchen23/ctp)
+Catherine Chen\*, Kevin Lin\*, Dan Klein (*equal contribution). (2021). Constructing Taxonomies from Pretrained Language Models. NAACL. [paper](https://arxiv.org/abs/2010.12813) [code](https://github.com/cchen23/ctp)
 
 Catherine Chen, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman. (2021). Learning to perform role-filler binding with schematic knowledge. PeerJ, 9, e11046. [paper](https://peerj.com/articles/11046/)
 
