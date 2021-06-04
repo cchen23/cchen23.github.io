@@ -16,7 +16,7 @@ Outside of research, I like to run, play tennis and guitar, and learn languages.
 
 ## Past Research
 [Constructing Taxonomies from Pretrained Language Models](https://arxiv.org/abs/2010.12813)<br/>
-**Catherine Chen\***, Kevin Lin\*, Dan Klein (*equal contribution)<br/>
+**Catherine Chen\***, Kevin Lin\*, Dan Klein (\*equal contribution)<br/>
 *NAACL 2021*<br/>
 [code](https://github.com/cchen23/ctp)
 
