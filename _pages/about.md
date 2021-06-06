@@ -32,7 +32,7 @@ Outside of research, I like to run, play tennis and guitar, and learn languages.
 
 [A temporal decay model for mapping between fMRI and natural language annotations](https://www2.securecms.com/CCNeuro/docs-0/591d7d2668ed3f3154cce90a.pdf)<br/>
 Kiran Vodrahalli, **Catherine Chen**, Viola Mocz, Chris Baldassano, Uri Hasson, Sanjeev Arora, Kenneth A. Norman<br/>
-*CCN (2017)*<br/>
+*CCN 2017*<br/>
 
 [Decision Making in Heterogeneous Drift Diffusion Networks](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/written_report.pdf)<br/>
 *[PACM](https://www.pacm.princeton.edu) Undergraduate Certificate Colloquium 2018*<br/>
