@@ -15,7 +15,7 @@ Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.ful
 Outside of research, I like to run, play tennis and guitar, and learn languages.
 
 ## Research
-Representations of Linguistic Information at Different Timescales in the Human Brain During Reading and Listening<br/>
+[Representations of Linguistic Information at Different Timescales in the Human Brain During Reading and Listening](https://www.abstractsonline.com/pp8/#!/10485/presentation/19746)<br/>
 **Catherine Chen**, Tom Dupre la Tour, Jack Gallant, Dan Klein, Fatma Deniz.<br/>
 *SfN 2021*
 
