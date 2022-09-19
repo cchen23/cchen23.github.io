@@ -15,6 +15,14 @@ Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.ful
 Outside of research, I like to run, play tennis and guitar, and learn languages.
 
 ## Research
+[The cortical representation of lexical semantics is shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
+**Catherine Chen**, Lily Gong\*, Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
+*CCN 2022*<br/>
+
+[The Cortical Representation of Linguistic Structures at Different Timescales is Shared between Reading and Listening](https://2022.ccneuro.org/view_paper.php?PaperNum=1089)<br/>
+**Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, Fatma Deniz. <br/>
+*CCN 2022*<br/>
+
 [Representations of Linguistic Information at Different Timescales in the Human Brain During Reading and Listening](https://www.abstractsonline.com/pp8/#!/10485/presentation/19746)<br/>
 **Catherine Chen**, Tom Dupre la Tour, Jack Gallant, Dan Klein, Fatma Deniz.<br/>
 *SfN 2021*
