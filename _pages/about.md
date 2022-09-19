@@ -17,7 +17,7 @@ Outside of research, I like to run, play tennis and guitar, and learn languages.
 ## Research
 [The cortical representation of lexical semantics is shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
 **Catherine Chen**, Lily Gong\*, Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
-*CCN 2022*<br/>
+*SNL 2022*<br/>
 
 [The Cortical Representation of Linguistic Structures at Different Timescales is Shared between Reading and Listening](https://2022.ccneuro.org/view_paper.php?PaperNum=1089)<br/>
 **Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, Fatma Deniz. <br/>
