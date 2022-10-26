@@ -16,7 +16,7 @@ Outside of research, I like to run, play tennis and guitar, and learn languages.
 
 ## Research
 [The cortical representation of lexical semantics is shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
-**Catherine Chen**, Lily Gong\*, Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
+**Catherine Chen**,\* Lily Gong,\* Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
 *SNL 2022*<br/>
 
 [The Cortical Representation of Linguistic Structures at Different Timescales is Shared between Reading and Listening](https://2022.ccneuro.org/view_paper.php?PaperNum=1089)<br/>
@@ -28,7 +28,7 @@ Outside of research, I like to run, play tennis and guitar, and learn languages.
 *SfN 2021*
 
 [Constructing Taxonomies from Pretrained Language Models](https://aclanthology.org/2021.naacl-main.373/)<br/>
-**Catherine Chen\***, Kevin Lin\*, Dan Klein. (\*equal contribution)<br/>
+**Catherine Chen**,\* Kevin Lin,\* Dan Klein.<br/>
 *NAACL 2021*<br/>
 [code](https://github.com/cchen23/ctp)
 
@@ -49,3 +49,5 @@ Kiran Vodrahalli, **Catherine Chen**, Viola Mocz, Chris Baldassano, Uri Hasson, 
 [Decision Making in Heterogeneous Drift Diffusion Networks](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/written_report.pdf)<br/>
 *[PACM](https://www.pacm.princeton.edu) Undergraduate Certificate Colloquium 2018*<br/>
 [presentation](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/slides.pdf)
+
+\*=equal contribution
