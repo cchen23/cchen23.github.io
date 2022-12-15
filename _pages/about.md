@@ -15,6 +15,10 @@ Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.ful
 Outside of research, I like to run, play tennis and guitar, and learn languages.
 
 ## Research
+[Attention weights accurately predict language representations in the brain](http://nlp.cs.berkeley.edu/pubs/Lamarre-Chen-Deniz_2022_TransformerAttentionfMRI_paper.pdf)<br/>
+Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
+*EMNLP 2022, Findings*<br/>
+
 [The cortical representation of lexical semantics is shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
 **Catherine Chen**,\* Lily Gong,\* Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
 *SNL 2022*<br/>
