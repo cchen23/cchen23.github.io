@@ -8,18 +8,38 @@ redirect_from:
   - /about.html
 ---
 <br>
-Hello! My name is Cathy Chen. I'm a PhD student in [EECS at UC Berkeley](https://eecs.berkeley.edu/), advised by [Dan Klein](https://people.eecs.berkeley.edu/~klein/) and [Jack Gallant](https://www.gallantlab.org/news/). I am interested in the intersection of natural language, cognitive neuroscience, and machine learning. I am affiliated with [BAIR](https://bair.berkeley.edu) and have received support from the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). In Summer 2022 I am in Seattle, WA, USA interning at the [Allen Institute for AI](https://allenai.org/) on the [Semantic Scholar](https://www.semanticscholar.org/about) team.
+Hello! My name is Cathy Chen. I'm a PhD student in [EECS at UC Berkeley](https://eecs.berkeley.edu/), advised by [Dan Klein](https://people.eecs.berkeley.edu/~klein/) and [Jack Gallant](https://www.gallantlab.org/news/). I am interested in the intersection of natural language, cognitive neuroscience, and machine learning. I am affiliated with [BAIR](https://bair.berkeley.edu) and have received support from the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). In Summer 2022 I interned at the [Allen Institute for AI](https://allenai.org/) on the [Semantic Scholar](https://www.semanticscholar.org/about) team.
 
 Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.fulbrightonline.org/) to work on causal inference and neuroscience at [LMU Munich](https://www.uni-muenchen.de/index.html) and [MPI Tuebingen](https://tuebingen.mpg.de/startseite/), advised by [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at/team/person/107192/). I graduated with a BSE in Computer Science from [Princeton](https://www.princeton.edu/) with minors in Neuroscience, Statistics and Machine Learning, and Applied Math. There, I was fortunate to work with [Ken Norman](https://compmem.princeton.edu), [Elad Hazan](https://www.cs.princeton.edu/~ehazan/), and [Zahra Aminzare](http://homepage.divms.uiowa.edu/~zaminzare/).
 
-Outside of research, I like to run, play tennis and guitar, and learn languages.
+Outside of research, I like to run, swim, and learn languages.
 
-## Research
-[Attention weights accurately predict language representations in the brain](http://nlp.cs.berkeley.edu/pubs/Lamarre-Chen-Deniz_2022_TransformerAttentionfMRI_paper.pdf)<br/>
+## Publications
+[Attention Weights Accurately Predict Language Representations in the Brain](http://nlp.cs.berkeley.edu/pubs/Lamarre-Chen-Deniz_2022_TransformerAttentionfMRI_paper.pdf)<br/>
 Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 *EMNLP 2022, Findings*<br/>
 
-[The cortical representation of lexical semantics is shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
+[Constructing Taxonomies from Pretrained Language Models](https://aclanthology.org/2021.naacl-main.373/)<br/>
+**Catherine Chen**,\* Kevin Lin,\* Dan Klein.<br/>
+*NAACL 2021*<br/>
+[code](https://github.com/cchen23/ctp)
+
+[Learning to Perform Role-Filler Binding with Schematic Knowledge](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8019313/)<br/>
+**Catherine Chen**, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman.<br/>
+*PeerJ 2021*<br/>
+[code](https://github.com/cchen23/generalized_schema_learning)
+
+#### <ins>*Preprints*</ins>
+
+[The Cortical Representation of Language Timescales is Shared between Reading and Listening](https://www.biorxiv.org/content/10.1101/2023.01.06.522601v1)<br/>
+**Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, Fatma Deniz. <br/>
+
+[Does Unsupervised Grammar Induction Need Pixels?](https://arxiv.org/abs/2212.10564)<br/>
+Boyi Li,\* Rodolfo Corona,\* Karttikeya Mangalam,\* **Catherine Chen**, Daniel Flaherty, Serge Belongie, Kilian Q. Weinberger, Jitendra Malik, Trevor Darrell, Dan Klein. <br/>
+
+#### <ins>*Conference Abstracts and Technical Reports*</ins>
+
+[The Cortical Representation of Lexical Semantics is Shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
 **Catherine Chen**,\* Lily Gong,\* Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
 *SNL 2022*<br/>
 
@@ -31,22 +51,12 @@ Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 **Catherine Chen**, Tom Dupre la Tour, Jack Gallant, Dan Klein, Fatma Deniz.<br/>
 *SfN 2021*
 
-[Constructing Taxonomies from Pretrained Language Models](https://aclanthology.org/2021.naacl-main.373/)<br/>
-**Catherine Chen**,\* Kevin Lin,\* Dan Klein.<br/>
-*NAACL 2021*<br/>
-[code](https://github.com/cchen23/ctp)
-
-[Learning to perform role-filler binding with schematic knowledge](https://peerj.com/articles/11046/)<br/>
-**Catherine Chen**, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman.<br/>
-*PeerJ 2021*<br/>
-[code](https://github.com/cchen23/generalized_schema_learning)
-
-[Generalized schema learning by neural networks](https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1036)<br/>
+[Generalized Schema Learning by Neural Networks](https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1036)<br/>
 **Catherine Chen**, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman. <br/>
 *CCN 2018*<br/>
 [poster](/images/thesis_ccn_poster.png)
 
-[A temporal decay model for mapping between fMRI and natural language annotations](https://www2.securecms.com/CCNeuro/docs-0/591d7d2668ed3f3154cce90a.pdf)<br/>
+[A Temporal Decay Model for Mapping between fMRI and Natural Language Annotations](https://www2.securecms.com/CCNeuro/docs-0/591d7d2668ed3f3154cce90a.pdf)<br/>
 Kiran Vodrahalli, **Catherine Chen**, Viola Mocz, Chris Baldassano, Uri Hasson, Sanjeev Arora, Kenneth A. Norman<br/>
 *CCN 2017*<br/>
 
