@@ -12,7 +12,7 @@ Hello! My name is Cathy Chen. I'm a PhD student in [EECS at UC Berkeley](https:/
 
 Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.fulbrightonline.org/) to work on causal inference and neuroscience at [LMU Munich](https://www.uni-muenchen.de/index.html) and [MPI Tuebingen](https://tuebingen.mpg.de/startseite/), advised by [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at/team/person/107192/). I graduated with a BSE in Computer Science from [Princeton](https://www.princeton.edu/) with minors in Neuroscience, Statistics and Machine Learning, and Applied Math. There, I was fortunate to work with [Ken Norman](https://compmem.princeton.edu), [Elad Hazan](https://www.cs.princeton.edu/~ehazan/), and [Zahra Aminzare](http://homepage.divms.uiowa.edu/~zaminzare/).
 
-Outside of research, I like to run, swim, and learn languages.
+Outside of research I like to run, swim, and learn languages.
 
 ## Publications
 [Attention Weights Accurately Predict Language Representations in the Brain](http://nlp.cs.berkeley.edu/pubs/Lamarre-Chen-Deniz_2022_TransformerAttentionfMRI_paper.pdf)<br/>
@@ -29,7 +29,7 @@ Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 *PeerJ 2021*<br/>
 [code](https://github.com/cchen23/generalized_schema_learning)
 
-#### <ins>*Preprints*</ins>
+### <ins>*Preprints*</ins>
 
 [The Cortical Representation of Language Timescales is Shared between Reading and Listening](https://www.biorxiv.org/content/10.1101/2023.01.06.522601v1)<br/>
 **Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, Fatma Deniz. <br/>
@@ -37,7 +37,7 @@ Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 [Does Unsupervised Grammar Induction Need Pixels?](https://arxiv.org/abs/2212.10564)<br/>
 Boyi Li,\* Rodolfo Corona,\* Karttikeya Mangalam,\* **Catherine Chen**, Daniel Flaherty, Serge Belongie, Kilian Q. Weinberger, Jitendra Malik, Trevor Darrell, Dan Klein. <br/>
 
-#### <ins>*Conference Abstracts and Technical Reports*</ins>
+### <ins>*Conference Abstracts and Technical Reports*</ins>
 
 [The Cortical Representation of Lexical Semantics is Shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
 **Catherine Chen**,\* Lily Gong,\* Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
