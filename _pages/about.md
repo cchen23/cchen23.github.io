@@ -17,7 +17,7 @@ Outside of research I like to run, swim, and learn languages.
 ## Publications
 [Attention Weights Accurately Predict Language Representations in the Brain](http://nlp.cs.berkeley.edu/pubs/Lamarre-Chen-Deniz_2022_TransformerAttentionfMRI_paper.pdf)<br/>
 Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
-*EMNLP 2022, Findings*<br/>
+*EMNLP Findings 2022*<br/>
 
 [Constructing Taxonomies from Pretrained Language Models](https://aclanthology.org/2021.naacl-main.373/)<br/>
 **Catherine Chen**,\* Kevin Lin,\* Dan Klein.<br/>
@@ -37,28 +37,28 @@ Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 [Does Unsupervised Grammar Induction Need Pixels?](https://arxiv.org/abs/2212.10564)<br/>
 Boyi Li,\* Rodolfo Corona,\* Karttikeya Mangalam,\* **Catherine Chen**, Daniel Flaherty, Serge Belongie, Kilian Q. Weinberger, Jitendra Malik, Trevor Darrell, Dan Klein. <br/>
 
-### <ins>*Conference Abstracts and Technical Reports*</ins>
+### <ins>*Conference Presentations and Technical Reports*</ins>
 
 [The Cortical Representation of Lexical Semantics is Shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
 **Catherine Chen**,\* Lily Gong,\* Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
-*SNL 2022*<br/>
+*Society for the Neurobiology of Language (SNL) 2022*<br/>
 
 [The Cortical Representation of Linguistic Structures at Different Timescales is Shared between Reading and Listening](https://2022.ccneuro.org/view_paper.php?PaperNum=1089)<br/>
 **Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, Fatma Deniz. <br/>
-*CCN 2022*<br/>
+*Conference on Cognitive Computational Neuroscience (CCN) 2022*<br/>
 
 [Representations of Linguistic Information at Different Timescales in the Human Brain During Reading and Listening](https://www.abstractsonline.com/pp8/#!/10485/presentation/19746)<br/>
 **Catherine Chen**, Tom Dupre la Tour, Jack Gallant, Dan Klein, Fatma Deniz.<br/>
-*SfN 2021*
+*Society for Neuroscience (SfN) 2021*
 
 [Generalized Schema Learning by Neural Networks](https://ccneuro.org/2018/Papers/ViewPapers.asp?PaperNum=1036)<br/>
 **Catherine Chen**, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman. <br/>
-*CCN 2018*<br/>
+*Conference on Cognitive Computational Neuroscience (CCN) 2018*<br/>
 [poster](/images/thesis_ccn_poster.png)
 
 [A Temporal Decay Model for Mapping between fMRI and Natural Language Annotations](https://www2.securecms.com/CCNeuro/docs-0/591d7d2668ed3f3154cce90a.pdf)<br/>
 Kiran Vodrahalli, **Catherine Chen**, Viola Mocz, Chris Baldassano, Uri Hasson, Sanjeev Arora, Kenneth A. Norman<br/>
-*CCN 2017*<br/>
+*Conference on Cognitive Computational Neuroscience (CCN) 2017*<br/>
 
 [Decision Making in Heterogeneous Drift Diffusion Networks](https://github.com/cchen23/heterogeneous_DDM_networks/blob/master/written_report.pdf)<br/>
 *[PACM](https://www.pacm.princeton.edu) Undergraduate Certificate Colloquium 2018*<br/>
