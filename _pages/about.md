@@ -39,7 +39,7 @@ Boyi Li,\* Rodolfo Corona,\* Karttikeya Mangalam,\* **Catherine Chen**, Daniel F
 
 ### <ins>*Conference Presentations and Technical Reports*</ins>
 
-[The Cortical Representation of Lexical Semantics is Shared across English and Chinese](https://www.neurolang.org/presentation/?id=705)<br/>
+[The Cortical Representation of Lexical Semantics is Shared across English and Chinese](https://program.neurolang.org/presentation/?id=705)<br/>
 **Catherine Chen**,\* Lily Gong,\* Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
 *Society for the Neurobiology of Language (SNL) 2022*<br/>
 
