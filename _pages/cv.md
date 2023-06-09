@@ -19,11 +19,13 @@ Education
 
 Work experience
 ======
+* **Allen Institute for AI** *Seattle, WA* (*May - Dec 2022*)
+  * Research Intern, Semantic Scholar
 * **Airbnb** *San Francisco, CA* (*Jun - Aug 2017*)
-  * Software Engineer Intern
+  * Software Engineer Intern, Analytics & Experimentation Platform
   * KPCB Fellow
 * **Google** *Seattle, WA* (*Jun - Sep 2016*)
-  * Engineering Practicum Intern
+  * Engineering Practicum Intern, Supply Chain Planning
 * **Curtis Institute of Music** *Philadelphia, PA* (*Jun - Aug 2015*)
 * **Princeton Internships in Civic Service** *Princeton, NJ* (*Oct 2014 - May 2017*)
   * Assistant Program Coordinator
@@ -57,8 +59,12 @@ Teaching
 
 Awards & Scholarships
 ======
-* NSF Graduate Research Fellowship (*2019-*)
-* Fulbright US Student Grant (*2018-2019*)
+* IBM PhD Fellowship (*Received 2022*)
+* NSF Graduate Research Fellowship (*Received 2020*)
+* Fulbright Scholarship, Germany (*2018-2019*)
+* Berkeley Conference Travel Grant (*2023*)
+* SNL Travel Award (*2022*)
+* Berkeley EECS Excellence Award (*2018*)
 * Princeton Accenture Prize in Computer Science (*2018*)
 * Student Teaching Award, Princeton Computer Science (*2018*)
 * Undergraduate Summer Research Award, Princeton CSML (*2018*)
