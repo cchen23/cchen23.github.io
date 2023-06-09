@@ -15,6 +15,11 @@ Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.ful
 Outside of research I like to run, swim, and learn languages.
 
 ## Publications
+
+[Are Layout-Infused Language Models Robust to Layout Distribution Shifts? A Case Study with Scientific Documents](https://arxiv.org/pdf/2306.01058.pdf)<br/>
+**Catherine Chen**, Zejiang Shen, Dan Klein, Gabriel Stanovsky, Doug Downey, Kyle Lo. <br/>
+*To appear in ACL Findings 2023*<br/>
+
 [Attention Weights Accurately Predict Language Representations in the Brain](http://nlp.cs.berkeley.edu/pubs/Lamarre-Chen-Deniz_2022_TransformerAttentionfMRI_paper.pdf)<br/>
 Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 *EMNLP Findings 2022*<br/>
