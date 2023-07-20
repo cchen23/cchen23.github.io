@@ -19,6 +19,7 @@ Outside of research I like to run, swim, and learn languages.
 [Are Layout-Infused Language Models Robust to Layout Distribution Shifts? A Case Study with Scientific Documents](https://aclanthology.org/2023.findings-acl.844.pdf)<br/>
 **Catherine Chen**, Zejiang Shen, Dan Klein, Gabriel Stanovsky, Doug Downey, Kyle Lo. <br/>
 *ACL Findings 2023*<br/>
+[code](https://github.com/cchen23/layout_distribution_shift)
 
 [Attention Weights Accurately Predict Language Representations in the Brain](https://aclanthology.org/2022.findings-emnlp.330.pdf)<br/>
 Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
