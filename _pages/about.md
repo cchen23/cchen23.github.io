@@ -37,7 +37,7 @@ Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 
 ### <ins>*Preprints*</ins>
 
-[The Cortical Representation of Language Timescales is Shared between Reading and Listening](https://www.biorxiv.org/content/10.1101/2023.01.06.522601v1)<br/>
+[The Cortical Representation of Language Timescales is Shared between Reading and Listening]([https://www.biorxiv.org/content/10.1101/2023.01.06.522601v1](https://www.biorxiv.org/content/10.1101/2023.01.06.522601v2))<br/>
 **Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, Fatma Deniz. <br/>
 
 [Does Unsupervised Grammar Induction Need Pixels?](https://arxiv.org/abs/2212.10564)<br/>
