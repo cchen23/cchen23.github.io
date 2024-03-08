@@ -15,6 +15,10 @@ Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.ful
 Outside of research I like to run, swim, and learn languages.
 
 ## Publications
+[The Cortical Representation of Language Timescales is Shared between Reading and Listening](https://www.nature.com/articles/s42003-024-05909-z.epdf)<br/>
+**Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, and Fatma Deniz. <br/>
+*Nature Communications Biology 2024*<br/>
+[brainviewer](https://cchen23.github.io/timescales-viewer-2024/) [code](https://github.com/denizenslab/timescales_filtering)
 
 [Are Layout-Infused Language Models Robust to Layout Distribution Shifts? A Case Study with Scientific Documents](https://aclanthology.org/2023.findings-acl.844.pdf)<br/>
 **Catherine Chen**, Zejiang Shen, Dan Klein, Gabriel Stanovsky, Doug Downey, Kyle Lo. <br/>
@@ -36,10 +40,6 @@ Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 [code](https://github.com/cchen23/generalized_schema_learning)
 
 ### <ins>*Preprints*</ins>
-
-[The Cortical Representation of Language Timescales is Shared between Reading and Listening](https://www.biorxiv.org/content/10.1101/2023.01.06.522601v2)<br/>
-**Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, Fatma Deniz. <br/>
-
 [Does Unsupervised Grammar Induction Need Pixels?](https://arxiv.org/abs/2212.10564)<br/>
 Boyi Li,\* Rodolfo Corona,\* Karttikeya Mangalam,\* **Catherine Chen**, Daniel Flaherty, Serge Belongie, Kilian Q. Weinberger, Jitendra Malik, Trevor Darrell, Dan Klein. <br/>
 
