@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-Hello! I'm a PhD student in [EECS at UC Berkeley](https://eecs.berkeley.edu/), advised by [Dan Klein](https://people.eecs.berkeley.edu/~klein/) and [Jack Gallant](https://www.gallantlab.org/news/). I am interested in the intersection of natural language, cognitive neuroscience, and machine learning. I am affiliated with [BAIR](https://bair.berkeley.edu) and have received support from the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). In Summer 2022 I interned at the [Allen Institute for AI](https://allenai.org/) on the [Semantic Scholar](https://www.semanticscholar.org/about) team.
+Hello! I'm a PhD candidate in [EECS at UC Berkeley](https://eecs.berkeley.edu/), advised by [Dan Klein](https://people.eecs.berkeley.edu/~klein/) and [Jack Gallant](https://www.gallantlab.org/news/). I am interested in the intersection of natural language, cognitive neuroscience, and machine learning. I am affiliated with [BAIR](https://bair.berkeley.edu) and have received support from the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). In Summer 2022 I interned at the [Allen Institute for AI](https://allenai.org/) on the [Semantic Scholar](https://www.semanticscholar.org/about) team.
 
 Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.fulbrightonline.org/) to work on causal inference and neuroscience at [LMU Munich](https://www.uni-muenchen.de/index.html) and [MPI Tuebingen](https://tuebingen.mpg.de/startseite/), advised by [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at/team/person/107192/). I graduated with a BSE in Computer Science from [Princeton](https://www.princeton.edu/) with minors in Neuroscience, Statistics and Machine Learning, and Applied Math. There, I was fortunate to work with [Ken Norman](https://compmem.princeton.edu), [Elad Hazan](https://www.cs.princeton.edu/~ehazan/), and [Zahra Aminzare](http://homepage.divms.uiowa.edu/~zaminzare/).
 
@@ -19,6 +19,10 @@ Outside of research I like to run, swim, and learn languages.
 **Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, and Fatma Deniz. <br/>
 *Nature Communications Biology 2024*<br/>
 [brainviewer](https://cchen23.github.io/timescales-viewer-2024/) [code](https://github.com/denizenslab/timescales_filtering)
+
+[Re-evaluating the Need for Multimodal Signals in Unsupervised Grammar Induction](https://arxiv.org/abs/2212.10564)<br/>
+Boyi Li,\* Rodolfo Corona,\* Karttikeya Mangalam,\* **Catherine Chen,\*** Daniel Flaherty, Serge Belongie, Kilian Q. Weinberger, Jitendra Malik, Trevor Darrell, Dan Klein. <br/>
+*NAACL Findings 2024*<br/>
 
 [Are Layout-Infused Language Models Robust to Layout Distribution Shifts? A Case Study with Scientific Documents](https://aclanthology.org/2023.findings-acl.844.pdf)<br/>
 **Catherine Chen**, Zejiang Shen, Dan Klein, Gabriel Stanovsky, Doug Downey, Kyle Lo. <br/>
@@ -38,10 +42,6 @@ Mathis Lamarre, **Catherine Chen**, Fatma Deniz. <br/>
 **Catherine Chen**, Qihong Lu, Andre Beukers, Christopher Baldassano, Kenneth A. Norman.<br/>
 *PeerJ 2021*<br/>
 [code](https://github.com/cchen23/generalized_schema_learning)
-
-### <ins>*Preprints*</ins>
-[Does Unsupervised Grammar Induction Need Pixels?](https://arxiv.org/abs/2212.10564)<br/>
-Boyi Li,\* Rodolfo Corona,\* Karttikeya Mangalam,\* **Catherine Chen**, Daniel Flaherty, Serge Belongie, Kilian Q. Weinberger, Jitendra Malik, Trevor Darrell, Dan Klein. <br/>
 
 ### <ins>*Conference Presentations and Technical Reports*</ins>
 
