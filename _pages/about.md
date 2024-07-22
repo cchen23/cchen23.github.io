@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 <br>
-Hello! I'm a PhD candidate in [EECS at UC Berkeley](https://eecs.berkeley.edu/), advised by [Dan Klein](https://people.eecs.berkeley.edu/~klein/) and [Jack Gallant](https://www.gallantlab.org/news/). I am interested in the intersection of natural language, cognitive neuroscience, and machine learning. I am affiliated with [BAIR](https://bair.berkeley.edu) and have received support from the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). In Summer 2022 I interned at the [Allen Institute for AI](https://allenai.org/) on the [Semantic Scholar](https://www.semanticscholar.org/about) team.
+Hello! I'm a PhD candidate in [EECS at UC Berkeley](https://eecs.berkeley.edu/), advised by [Dan Klein](https://people.eecs.berkeley.edu/~klein/) and [Jack Gallant](https://www.gallantlab.org/news/). My work is at the intersection of cognitive neuroscience and machine learning. In particular, I am interested in how humans and artificial language models represent and integrate information in language. I am affiliated with [BAIR](https://bair.berkeley.edu), and my PhD has been supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [IBM PhD Fellowship](https://research.ibm.com/university/awards/fellowships-awardees.html). In Summer 2022 I interned at the [Allen Institute for AI](https://allenai.org/) on the [Semantic Scholar](https://www.semanticscholar.org/about) team.
 
 Before coming to Berkeley, I received a [Fulbright Student Grant](https://us.fulbrightonline.org/) to work on causal inference and neuroscience at [LMU Munich](https://www.uni-muenchen.de/index.html) and [MPI Tuebingen](https://tuebingen.mpg.de/startseite/), advised by [Moritz Grosse-Wentrup](https://ni.cs.univie.ac.at/team/person/107192/). I graduated with a BSE in Computer Science from [Princeton](https://www.princeton.edu/) with minors in Neuroscience, Statistics and Machine Learning, and Applied Math. There, I was fortunate to work with [Ken Norman](https://compmem.princeton.edu), [Elad Hazan](https://www.cs.princeton.edu/~ehazan/), and [Zahra Aminzare](http://homepage.divms.uiowa.edu/~zaminzare/).
 
 Outside of research I like to run, swim, and learn languages.
 
 ## Publications
+[Bilingual Language Processing Relies on Shared Semantic Representations that are Modulated by Each Language](https://www.biorxiv.org/content/10.1101/2024.06.24.600505v1)<br/>
+**Catherine Chen**, Lily Gong, Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
+
 [The Cortical Representation of Language Timescales is Shared between Reading and Listening](https://www.nature.com/articles/s42003-024-05909-z.epdf)<br/>
 **Catherine Chen**, Tom Dupré la Tour, Jack Gallant, Daniel Klein, and Fatma Deniz. <br/>
 *Nature Communications Biology 2024*<br/>
