@@ -8,4 +8,4 @@ date: 2023-06-08
 location: "Berkeley, CA"
 ---
 
-I worked as a TA for [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp23/).
+TA for [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp23/).

@@ -8,4 +8,4 @@ date: 2018-02-01
 location: "Princeton, NJ"
 ---
 
-I worked as a lab TA for the independent work seminar [COSIW02: Using Publicly Available Data to Learn, Explain, Evaluate and Improve](https://www.cs.princeton.edu/courses/archive/spr18/cosIW02/).
+Lab TA for the independent work seminar [COSIW02: Using Publicly Available Data to Learn, Explain, Evaluate and Improve](https://www.cs.princeton.edu/courses/archive/spr18/cosIW02/).
