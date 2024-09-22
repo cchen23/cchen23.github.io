@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate in EECS, **UC Berkeley** (*Aug 2019 -*)
+* Ph.D. in EECS, **UC Berkeley** (*Aug 2019 - Aug 2024*)
 * Fulbright Student Research Grant, **MPI Tuebingen and LMU Munich** (*Sep 2018 - Jul 2019*)
 * B.S.E. in Computer Science, **Princeton University** (*Sep 2014 - Jun 2018*)
   * Minors: Applied Math, Neuroscience, Statistics & Machine Learning
@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* **Princeton Neuroscience Institute** Princeton, NJ (*Aug 2024 -*)
+    * Postdoctoral Research Fellow
 * **Allen Institute for AI** *Seattle, WA* (*May - Dec 2022*)
   * Research Intern, Semantic Scholar
 * **Airbnb** *San Francisco, CA* (*Jun - Aug 2017*)
@@ -59,10 +61,12 @@ Teaching
 
 Awards & Scholarships
 ======
+* CV Starr Fellowship (*Received 2024*)
+* Demetri Angelakos Memorial Achievement Award (*2024*)
 * IBM PhD Fellowship (*Received 2022*)
 * NSF Graduate Research Fellowship (*Received 2020*)
 * Fulbright Scholarship, Germany (*2018-2019*)
-* Berkeley Conference Travel Grant (*2023*)
+* Berkeley Conference Travel Grant (*2023, 2024*)
 * SNL Travel Award (*2022*)
 * Berkeley EECS Excellence Award (*2018*)
 * Princeton Accenture Prize in Computer Science (*2018*)
