@@ -15,7 +15,7 @@ I obtained my PhD in [EECS at UC Berkeley](https://eecs.berkeley.edu/), where I 
 Outside of research I like to run, swim, and learn languages.
 
 ## Publications
-[Bilingual Language Processing Relies on Shared Semantic Representations that are Modulated by Each Language](https://www.biorxiv.org/content/10.1101/2024.06.24.600505v1)<br/>
+[Bilingual Language Processing Relies on Shared Semantic Representations that are Modulated by Each Language](https://www.biorxiv.org/content/10.1101/2024.06.24.600505v2)<br/>
 **Catherine Chen**, Lily Gong, Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
 
 [The Cortical Representation of Language Timescales is Shared between Reading and Listening](https://www.nature.com/articles/s42003-024-05909-z.epdf)<br/>
