@@ -84,7 +84,7 @@ author:
   bio              : "" # TODO
   location         : "Princeton, NJ, USA"
   employer         :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=ZnGj_xMAAAAJ"
   email            : "cc27@alumni.princeton.edu"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "cathychen23"
+  twitter          : # "cathychen23"
   vine             :
   weibo            :
   xing             :
