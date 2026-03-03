@@ -17,7 +17,7 @@ Outside of research I like to run, bike, and learn languages.
 ## Selected Publications
 [Bilingual Language Processing Relies on Shared Semantic Representations that are Modulated by Each Language](https://www.pnas.org/doi/10.1073/pnas.2503721123)<br/>
 **Catherine Chen**, Lily Gong, Christine Tseng, Daniel Klein, Jack Gallant, Fatma Deniz. <br/>
-*PNAS*<br/>
+*PNAS 2026*<br/>
 [brainviewer](https://blsemc.github.io/viewer/) [code](https://github.com/denizenslab/bilingualism_semantics)
 
 [The Cortical Representation of Language Timescales is Shared between Reading and Listening](https://www.nature.com/articles/s42003-024-05909-z.epdf)<br/>
